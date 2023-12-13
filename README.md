@@ -13,11 +13,17 @@ I do not own or endorse the code presented below. This is PURELY for educational
 ## Files with Notes
 
 /contracts/LiquidityBorrowingManager.sol
+
 /contracts/Vault.sol
+
 /contracts/abstract/ApproveSwapAndPool.sol
+
 /contracts/abstract/DailyRateAndCollateral.sol
+
 /contracts/abstract/LiquidityManager.sol
+
 /contracts/libraries/ExternalCall.sol
+
 /contracts/libraries/Keys.sol
 
 
